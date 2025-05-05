@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conflicting line from main
+=======
+Line from feature branch
+>>>>>>> conflict-branch
