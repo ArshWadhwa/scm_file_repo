@@ -1,0 +1,36 @@
+project:
+  name: ClassCollab
+  framework: Vite + Tailwind CSS
+  language: TypeScript, HTML, CSS, JavaScript
+  package_manager: npm
+
+structure:
+  root:
+    - index.html
+    - README.md
+    - package.json
+    - package-lock.json
+    - components.json
+    - vite.config.ts
+    - tailwind.config.ts
+    - tsconfig.json
+    - tsconfig.app.json
+    - tsconfig.node.json
+    - eslint.config.js
+    - postcss.config.js
+    - .gitignore
+  folders:
+    - public/
+    - src/
+    - node_modules/
+    - server/
+  src_contents: []
+  server_contents: []
+  future_structure_plan:
+    - src/components/
+    - src/pages/
+    - src/assets/
+    - src/utils/
+    - src/context/
+    - src/api/
+
